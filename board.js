@@ -1,0 +1,1 @@
+const FIELDS_IN_AXIS = 20;
